@@ -1,0 +1,23 @@
+[
+    {
+        "beerId": 1,
+        "beerTypeId": 1,
+        "name": "Imperial",
+        "ibu": 100,
+        "price": 300
+    },
+    {
+        "beerId": 2,
+        "beerTypeId": 2,
+        "name": "Stella Artois Noire",
+        "ibu": 20,
+        "price": 450
+    },
+    {
+        "beerId": 3,
+        "beerTypeId": 3,
+        "name": "Abeja",
+        "ibu": 50,
+        "price": 100
+    }
+]
